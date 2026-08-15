@@ -37,23 +37,4 @@ I am an Information Technology student and independent software builder bridging
 #### 🚀 **Project Svaansh** *(Releasing Soon)*
 > A fast, high-performance platform for discovering Indian government recruitment, exams, results, and career opportunities. Built with AI integrations to make complex career information effortless to find, understand, and act on.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashantroot&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashantroot&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Prashantroot)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prashantroot)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Prashantroot)
-
----
-
 > *"Sometimes you fail, and that’s okay. You rest, reset, and start building again—things will get better."*
