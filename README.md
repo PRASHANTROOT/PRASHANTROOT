@@ -136,7 +136,7 @@ Some work remains private until the products are ready to be publicly revealed.
 
 <p align="center">
   <img
-    src="./profile-summary-card-output/github_dark/5-profile-details.svg"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
     alt="GitHub Profile Details"
   />
 </p>
