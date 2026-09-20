@@ -117,7 +117,6 @@ Independent product and startup projects currently under development.
 Some work remains private until the products are ready to be publicly revealed.
 
 ---
-
 ## 📊 GitHub Stats
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -147,7 +146,7 @@ Some work remains private until the products are ready to be publicly revealed.
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=prashantroot&theme=dark&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true"
+      src="https://github-readme-streak-stats.herokuapp.com?user=prashantroot&theme=highcontrast&border_radius=1&date_format=M%20j%5B%2C%20Y%5D"
       alt="GitHub Streak"
     />
   </a>
