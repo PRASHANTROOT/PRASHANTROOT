@@ -141,6 +141,8 @@ Some work remains private until the products are ready to be publicly revealed.
   />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prashantroot&theme=dark&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
 ---
 
 ## 🎯 What I'm Building Toward
