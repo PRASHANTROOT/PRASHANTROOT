@@ -120,15 +120,15 @@ Some work remains private until the products are ready to be publicly revealed.
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border: 0;">
       <img
         src="./profile-summary-card-output/github_dark/3-stats.svg"
         alt="GitHub Statistics"
       />
     </td>
-    <td align="center">
+    <td align="center" style="border: 0;">
       <img
         src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
         alt="Repositories per Language"
