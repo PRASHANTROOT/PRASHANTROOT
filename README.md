@@ -120,19 +120,22 @@ Some work remains private until the products are ready to be publicly revealed.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    alt="GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-    alt="Repositories per Language"
-  />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="./profile-summary-card-output/github_dark/3-stats.svg"
+        alt="GitHub Statistics"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+        alt="Repositories per Language"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img
@@ -141,7 +144,14 @@ Some work remains private until the products are ready to be publicly revealed.
   />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prashantroot&theme=dark&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=prashantroot&theme=dark&border_radius=1&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true"
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
 ---
 
