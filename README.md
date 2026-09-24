@@ -144,7 +144,8 @@ Some work remains private until the products are ready to be publicly revealed.
 </p>
 
 <p align="center">
-  ![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=prashantroot&theme=default)
+  <img 
+    src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=prashantroot&theme=default"/>
   </a>
 </p>
 
